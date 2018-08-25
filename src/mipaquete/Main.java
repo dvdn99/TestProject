@@ -11,6 +11,8 @@ public class Main {
 		
 		int num;
 		
+		System.out.println("Bienvenidos al primer programa :)");
+		
 		System.out.print("Enter a number: ");
 		
 		num = sc.nextInt();
